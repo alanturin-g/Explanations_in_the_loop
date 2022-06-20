@@ -22,3 +22,5 @@ Results saved by the methods:
 - **SHAP scores** computed on the test set: *{n_iter}_median_model_1_hidden_test.tsv* and *{n_iter}_median_model_1_hidden_test.png*;
 - **precision, recall, f1, XCP, AUC and accuracy**: *results {title}.tsv*;
 - **confusion matrix**: *confusion matrix {title}.tsv*;
+
+Produce the plots after producing all the results.
